@@ -21,10 +21,8 @@
 ---
 
 ### 🌟 About Me
-- 🔭 I’m currently working on **backend development projects**
-- 🌱 I’m learning **Express.js** and building powerful REST APIs
-- 💻 I enjoy solving real-world problems with code
-- 📫 Reach me on: [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/anvitsinghal/))
+- 🔭 I'm a Data Scientist passionate about extracting insights from data, building predictive models
+- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/ansh-jain-59a356285/)
 - 🧠 Fun fact: I debug like Sherlock 🕵️‍♂️
 
 ---
@@ -46,13 +44,17 @@
 
 | Category | Skills and Icons |
 |----------|-----------------|
-| **Programming Languages** | ![Python](https://share.google/SSiCUYQi9LzhL5e2h) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
-| **Frontend Development** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |
-| **Backend Development** | ![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) |
-| **Databases & Services** | ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) |
-| **AI/ML Technologies** | ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) |
-| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/Github-%23181717.svg?style=for-the-badge&logo=Github&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) |
+## 💻 Tech Stack
 
+| Category | Skills and Icons |
+|----------|-----------------|
+| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Data Analysis Libraries** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+| **Data Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge) |
+| **Machine Learning** | ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| **ML Concepts** | ![Regression](https://img.shields.io/badge/Regression-6A5ACD?style=for-the-badge) ![Classification](https://img.shields.io/badge/Classification-20B2AA?style=for-the-badge) ![Clustering](https://img.shields.io/badge/Clustering-FF6347?style=for-the-badge) |
+| **Tools & Platforms** | ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
 
 ### 📈 GitHub Stats & Streak
 
