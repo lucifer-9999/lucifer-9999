@@ -26,18 +26,17 @@
 - 🧠 Fun fact: I debug like Sherlock 🕵️‍♂️
 
 <h2 align="center">
----
-🔗 Connect with Me</h2>
+<h2 align="center">🔗 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://leetcode.com/u/anshjain9999999/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
   <a href="https://www.linkedin.com/in/ansh-jain-59a356285/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.codechef.com/users/lucifer_wish" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/anshjain9999999/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
