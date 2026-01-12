@@ -15,7 +15,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Ansh</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=440&lines=Engineering+student+from+India;Backend+Dev+%7C+MERN+Stack;Love+to+learn+new+tech!;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=520&lines=Data+Science+Enthusiast+from+India;Python+%7C+SQL+%7C+Machine+Learning;Data+Analysis+%7C+Predictive+Modeling;Always+learning+from+real+world+data" alt="Typing SVG" />
 </h3>
 
 ---
